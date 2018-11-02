@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "firstName": "Rohith",
+      "lastName": "Krishna",
+      "id": 2,
+      "aboutUser":"I am a Useless piece of shit"
+    },
+    {
+      "firstName": "Anju ",
+      "lastName": "Vava",
+      "aboutUser":"I am Anju Vava",
+      "id": 3
+    },
+    {
+      "firstName": "Kumbali",
+      "lastName": "TRance",
+      "aboutUser": " Bham Bham Bole nath",
+      "id": 4
+    },
+    {
+      "firstName": "Krishna",
+      "lastName": "Sajeev",
+      "aboutUser": "I am a super girl",
+      "id": 5
+    },
+    {
+      "firstName": "palarivattom",
+      "lastName": "sasi",
+      "aboutUser": "I am sasi",
+      "id": 6
+    },
+    {
+      "firstName": "Amritha",
+      "lastName": "Prasad",
+      "aboutUser": "I am cute",
+      "id": 7
+    },
+    {
+      "firstName": "Vaishak",
+      "lastName": "Madahavan",
+      "aboutUser": "I am super",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
