@@ -30,3 +30,11 @@ To run the Es lint
 
 ### Usage
 Fork this repository and use the code move to folder rk_boilerplate and run the npm command
+- `npm install` 
+- `npm run dev`
+
+### To view in Responsive mode 
+
+- Change the site to responsive by clicking on mobile mode in console
+- Create new custom devices, one with width 640*668 and other with 320*480
+- You can see the website changes to the responsive mode and styles get applied
